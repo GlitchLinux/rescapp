@@ -10,5 +10,7 @@ sudo apt-get update && sudo apt-get install -y \
 
 cd /tmp
 wget https://github.com/GlitchLinux/rescapp/raw/refs/heads/main/rescapp_amd64.deb 
-sudo dokg -i rescapp_amd64.deb && sudo apt install -f 
+sudo dokg -i rescapp_amd64.deb && sudo apt install -f
+
+rescapp
 ```
