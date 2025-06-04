@@ -16,6 +16,6 @@ apt-cache depends rescapp | grep Depends
 
 echo "rescapp have been installed your system!"
 echo "start through gui desktop launcher"
-echo "or run: rescapp . in terminal"
+echo "or run: rescapp in terminal"
 sleep 5 && exit
 ```
